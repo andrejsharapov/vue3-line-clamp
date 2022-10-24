@@ -1,6 +1,6 @@
 {
   "name": "vue3-line-clamp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple, fast and lightweight vue 3 directive for truncating multi line texts.",
   "main": "index.js",
   "scripts": {

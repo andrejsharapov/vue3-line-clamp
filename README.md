@@ -2,6 +2,13 @@
 
 A simple, fast and lightweight vue 3 directive for truncating multi line texts.
 
+[![npm][npm-img]][npm]
+[![download][download-img]][download]
+[![GitHub issues][issues-img]][issues]
+[![GitHub watchers](https://img.shields.io/github/watchers/andrejsharapov/vue3-line-clamps?style=social)][watchers]
+[![GitHub forks](https://img.shields.io/github/forks/andrejsharapov/vue3-line-clamps.svg?style=social&)][forks]
+[![GitHub stars](https://img.shields.io/github/stars/andrejsharapov/vue3-line-clamps.svg?style=social)][stars]
+
 > **Note**  
 > This is an adaptation of [vue-line-clamp](https://github.com/Frondor/vue-line-clamp) for Vue.js v3
 
@@ -57,3 +64,13 @@ View an [example](./src/main.js#L7) of using options.
 ## License
 
 vue3-line-clamp is licensed under the MIT license. You are free to use, modify and distribute this software, as long as the copyright header is left intact.
+
+[npm]: https://www.npmjs.com/package/vue3-line-clamp
+[npm-img]: https://img.shields.io/npm/v/vue3-line-clamp?color=c53635
+[download]: https://www.npmjs.com/package/vue3-line-clamp
+[download-img]: https://img.shields.io/npm/dm/vue3-line-clamp.svg
+[issues]: https://github.com/andrejsharapov/vue3-line-clamp/issues/
+[issues-img]: https://img.shields.io/github/issues/andrejsharapov/vue3-line-clamp.svg
+[watchers]: https://github.com/andrejsharapov/vue3-line-clamp/watchers/
+[forks]: https://github.com/andrejsharapov/vue3-line-clamp/network/
+[stars]: https://github.com/andrejsharapov/vue3-line-clamp/stargazers/
