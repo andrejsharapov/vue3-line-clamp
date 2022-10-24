@@ -29,5 +29,13 @@
     "truncate",
     "css",
     "vue3"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrejsharapov/vue3-line-clamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrejsharapov/vue3-line-clamp/issues"
+  },
+  "homepage": "https://github.com/andrejsharapov/vue3-line-clamp#readme"
 }
