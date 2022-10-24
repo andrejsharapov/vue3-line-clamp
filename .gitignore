@@ -1,0 +1,31 @@
+# Logs
+/logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional eslint cache
+.eslintcache
+
+# Yarn Integrity file
+.yarn-integrity
+
+# Dotenv environment variables file
+.env
+
+# IDE / Editor
+.idea
+
+# Vim swap files
+*.swp
+
+# Tests
+**/tests/**
+
+# Yarn lock
+yarn.lock

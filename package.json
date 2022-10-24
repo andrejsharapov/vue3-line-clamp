@@ -1,0 +1,33 @@
+{
+  "name": "vue3-line-clamp",
+  "version": "1.0.0",
+  "description": "A simple, fast and lightweight vue 3 directive for truncating multi line texts.",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "vue": "^3.2.41"
+  },
+  "devDependencies": {
+    "@vue/cli-service": "^5.0.8",
+    "@vue/compiler-sfc": "^3.2.41"
+  },
+  "author": "Andrej Sharapov <https://github.com/andrejsharapov>",
+  "license": "MIT",
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ],
+  "keywords": [
+    "frontend",
+    "vue",
+    "line-clamp",
+    "text-truncate",
+    "truncate",
+    "css",
+    "vue3"
+  ]
+}
