@@ -1,10 +1,10 @@
 import { createApp } from "vue";
 import App from "./App.vue";
-import vlc from "../index";
+import v3lc from "../index";
 
 const app = createApp(App);
 
-app.use(vlc, {
+app.use(v3lc, {
   // useClass: false,
   // textOverflow: "ellipsis",
   // wordBreak: "break-word",

@@ -52,7 +52,7 @@ Where `$` is a number indicating the maximum number of lines in the text.
 | wordBreak    | String  | 'break-word' | Set the value for [`word-break`](https://developer.mozilla.org/en-US/docs/Web/CSS/word-break) property.       |
 | useImportant | Boolean | false        | Set value as important. Allows you to override some values of libraries and ui-frameworks.                    |
 
-View an [example](./src/main.js) of using options.
+View an [example](./src/main.js#L7) of using options.
 
 ## License
 
