@@ -50,6 +50,10 @@ Add directive to template:
 
 Where `$` is a number indicating the maximum number of lines in the text.
 
+### Demo
+
+[![Edit vue3-line-clamp](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/vue3-line-clamp-od8ubh?fontsize=14&hidenavigation=1&theme=dark)
+
 ## Options
 
 | Property     | Type    | Default      | Description                                                                                                   |
