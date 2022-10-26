@@ -5,8 +5,28 @@
 Messages must be matched by the following regex:
 
 ```js
-/^(revert: )?(feat|fix|docs|dx|refactor|perf|test|workflow|build|ci|chore|types|wip|release|deps)(\(.+\))?: .{1,50}/
+/^(revert: )?(feat|fix|docs|refactor|perf|test|workflow|build|chore|types|wip|release|deps)(\(.+\))?: .{1,50}/
 ```
+
+<details>
+  <summary>Explanation</summary>
+
+| Message  | Decryption       |
+| -------- | ---------------- |
+| feat     | feature          |
+| fix      | fix              |
+| docs     | documentation    |
+| refactor | refactoring      |
+| perf     | performance      |
+| test     | testing          |
+| workflow | workflow         |
+| build    | build            |
+| chore    | chore            |
+| types    | types            |
+| wip      | work in progress |
+| release  | release          |
+| deps     | dependencies     |
+</details>
 
 #### Examples
 
