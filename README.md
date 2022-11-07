@@ -5,9 +5,9 @@ A simple, fast and lightweight vue 3 directive for truncating multi line texts.
 [![npm][npm-img]][npm]
 [![download][download-img]][download]
 [![GitHub issues][issues-img]][issues]
-[![GitHub watchers](https://img.shields.io/github/watchers/andrejsharapov/vue3-line-clamps?style=social)][watchers]
-[![GitHub forks](https://img.shields.io/github/forks/andrejsharapov/vue3-line-clamps.svg?style=social&)][forks]
-[![GitHub stars](https://img.shields.io/github/stars/andrejsharapov/vue3-line-clamps.svg?style=social)][stars]
+[![GitHub watchers](https://img.shields.io/github/watchers/andrejsharapov/vue3-line-clamp?style=social)][watchers]
+[![GitHub forks](https://img.shields.io/github/forks/andrejsharapov/vue3-line-clamp.svg?style=social&)][forks]
+[![GitHub stars](https://img.shields.io/github/stars/andrejsharapov/vue3-line-clamp.svg?style=social)][stars]
 
 > **Note**  
 > This is an adaptation of [vue-line-clamp](https://github.com/Frondor/vue-line-clamp) for Vue.js v3
