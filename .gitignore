@@ -27,5 +27,6 @@ jspm_packages/
 # Tests
 **/tests/**
 
-# Yarn lock
-yarn.lock
+# Lock files
+*lock*
+ 
